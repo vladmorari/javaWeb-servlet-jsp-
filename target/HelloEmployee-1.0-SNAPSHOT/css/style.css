@@ -1,0 +1,22 @@
+body{
+    background-color: gray;
+    margin: 0px;
+}
+#h1_welcome{
+    margin-left: 30%;
+    width: 350px;
+    height: 50px;
+    color: burlywood;
+    text-align: center;
+    font-family: fantasy;
+    border: 2px white solid;
+    
+}
+
+.list_obj{
+     margin-left: 30%;
+     width: 400px;
+     border: green 2px solid;
+     margin-top: 100px;
+    
+}
